@@ -26,7 +26,7 @@ I will be involved in the following projects during my internship:
 
 1. **Project 1:** Calculator
 2. **Project 2:** Tribute Page
-3. **Project 3:** To-Do Page
+3. **Project 3:** To-Do Webapp
 4. **Project 4:** Authentication
 
 I will be updating this README with project-specific details, progress updates, and any other relevant information as I work on each project.
